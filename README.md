@@ -42,4 +42,12 @@ Return 0 if there is no such subarray.
 
 [Try here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 
+###### 6. [1496. Path Crossing](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/1496.%20Path%20Crossing)
+
+Given a string path, where path[i] = 'N', 'S', 'E' or 'W', each representing moving one unit north, south, east, or west, respectively. You start at the origin (0, 0) on a 2D plane and walk on the path specified by path.
+Return True if the path crosses itself at any point, that is, if at any time you are on a location you've previously visited. Return False otherwise.
+
+[Try here](https://leetcode.com/problems/path-crossing/)
+
+
 Special thanks to, [Leetcode.com](https://leetcode.com)
