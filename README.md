@@ -19,3 +19,12 @@ Given an integer n and an integer start. Define an array nums where nums[i] = st
 Return the bitwise XOR of all elements of nums.
 
 [Try here](https://leetcode.com/problems/xor-operation-in-an-array/)
+
+###### 3. [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
+
+Given an array of unique integers salary where salary[i] is the salary of the employee i.
+Return the average salary of employees excluding the minimum and maximum salary.
+
+[Try here](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+
+Special thanks to, [Leetcode.com](https://leetcode.com)
