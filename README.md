@@ -34,7 +34,7 @@ Consider a list of all factors of n sorted in ascending order, return the kth fa
 
 [Try here](https://leetcode.com/problems/the-kth-factor-of-n/)
 
-###### 5. [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/1493.%20Longest%20Subarray%20of%201s%20After%20Deleting%20One%20Element)
+###### 5. [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)
 
 Given a binary array nums, you should delete one element from it.
 Return the size of the longest non-empty subarray containing only 1's in the resulting array.
