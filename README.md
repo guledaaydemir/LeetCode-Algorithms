@@ -27,4 +27,11 @@ Return the average salary of employees excluding the minimum and maximum salary.
 
 [Try here](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 
+###### 4. [1492. The kth Factor of n](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/1492.%20The%20kth%20Factor%20of%20n)
+
+Given two positive integers n and k. A factor of an integer n is defined as an integer i where n % i == 0.
+Consider a list of all factors of n sorted in ascending order, return the kth factor in this list or return -1 if n has less than k factors.
+
+[Try here](https://leetcode.com/problems/the-kth-factor-of-n/)
+
 Special thanks to, [Leetcode.com](https://leetcode.com)
