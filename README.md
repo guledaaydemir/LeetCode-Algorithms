@@ -62,5 +62,12 @@ DD denotes the 2 digit day.
 
 [Try here](https://leetcode.com/problems/reformat-date/)
 
+###### 8. [268. Missing Number](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/268.%20Missing%20Number)
+
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+Follow up: Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
+
+[Try here](https://leetcode.com/problems/missing-number/)
+
 
 Special thanks to, [Leetcode.com](https://leetcode.com)
