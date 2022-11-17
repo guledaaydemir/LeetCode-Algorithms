@@ -92,11 +92,21 @@ Given a roman numeral, convert it to an integer.
 
 [Try here](https://leetcode.com/problems/roman-to-integer/)
 
-###### 10. [14. Longest Common Prefix](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/13.%20Longest%20Common%20Prefix)
+###### 10. [14. Longest Common Prefix](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/14.%20Longest%20Common%20Prefix)
 
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
 
 [Try here](https://leetcode.com/problems/longest-common-prefix/)
+
+###### 11. [20. Valid Parentheses](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/20.%20Valid%20Parentheses)
+
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+
+[Try here](https://leetcode.com/problems/valid-parentheses/)
 
 Special thanks to, [Leetcode.com](https://leetcode.com)
