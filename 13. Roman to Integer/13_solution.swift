@@ -1,5 +1,3 @@
-import UIKit
-
 func romanToInt(_ s: String) -> Int {
 
     //check input

@@ -92,4 +92,11 @@ Given a roman numeral, convert it to an integer.
 
 [Try here](https://leetcode.com/problems/roman-to-integer/)
 
+###### 10. [14. Longest Common Prefix](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/13.%20Longest%20Common%20Prefix)
+
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
+
+[Try here](https://leetcode.com/problems/longest-common-prefix/)
+
 Special thanks to, [Leetcode.com](https://leetcode.com)
