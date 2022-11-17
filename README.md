@@ -127,4 +127,13 @@ Given n, calculate F(n).
 
 [Try here](https://leetcode.com/problems/fibonacci-number/)
 
+###### 14. [223. Rectangle Area](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/223.%20Rectangle%20Area)
+
+Given the coordinates of two rectilinear rectangles in a 2D plane, return the total area covered by the two rectangles.
+The first rectangle is defined by its bottom-left corner (ax1, ay1) and its top-right corner (ax2, ay2).
+The second rectangle is defined by its bottom-left corner (bx1, by1) and its top-right corner (bx2, by2).
+
+[Try here](https://leetcode.com/problems/rectangle-area/)
+
+
 Special thanks to, [Leetcode.com](https://leetcode.com)
