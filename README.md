@@ -144,8 +144,21 @@ Return k after placing the final result in the first k slots of nums.
 [Try here](https://leetcode.com/problems/remove-element/)
 
 
+###### 16. [420. Strong Password Checker](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/420.%20Strong%20Password%20Checker)
 
+A password is considered strong if the below conditions are all met:
 
+It has at least 6 characters and at most 20 characters.
+It contains at least one lowercase letter, at least one uppercase letter, and at least one digit.
+It does not contain three repeating characters in a row (i.e., "...aaa..." is weak, but "...aa...a..." is strong, assuming other conditions are met).
+Given a string password, return the minimum number of steps required to make password strong. if password is already strong, return 0.
+
+In one step, you can:
+Insert one character to password,
+Delete one character from password, or
+Replace one character of password with another character.
+
+[Try here](https://leetcode.com/problems/strong-password-checker/)
 
 
 Special thanks to, [Leetcode.com](https://leetcode.com)
