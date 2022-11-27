@@ -182,5 +182,39 @@ Return the minimum possible sum of new1 and new2.
 
 [Try here](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 
+###### 19. [2331. Evaluate Boolean Binary Tree](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/2331.%20Evaluate%20Boolean%20Binary%20Tree)
+
+You are given the root of a full binary tree with the following properties:
+
+Leaf nodes have either the value 0 or 1, where 0 represents False and 1 represents True.
+Non-leaf nodes have either the value 2 or 3, where 2 represents the boolean OR and 3 represents the boolean AND.
+The evaluation of a node is as follows:
+
+If the node is a leaf node, the evaluation is the value of the node, i.e. True or False.
+Otherwise, evaluate the node's two children and apply the boolean operation of its value with the children's evaluations.
+Return the boolean result of evaluating the root node.
+
+A full binary tree is a binary tree where each node has either 0 or 2 children.
+A leaf node is a node that has zero children.
+
+[Try here](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
+
+###### 20. [145. Binary Tree Postorder Traversal](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/145.%20Binary%20Tree%20Postorder%20Traversal)
+
+Given the root of a binary tree, return the postorder traversal of its nodes' values.
+
+[Try here](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+###### 21. [144. Binary Tree Preorder Traversal](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/144.%20Binary%20Tree%20Preorder%20Traversal)
+
+Given the root of a binary tree, return the preorder traversal of its nodes' values.
+
+[Try here](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+###### 21. [94. Binary Tree Inorder Traversal](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/94.%20Binary%20Tree%20Inorder%20Traversal)
+
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
+[Try here](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 Special thanks to, [Leetcode.com](https://leetcode.com)
