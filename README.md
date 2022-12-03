@@ -217,4 +217,36 @@ Given the root of a binary tree, return the inorder traversal of its nodes' valu
 
 [Try here](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
+###### 22. [110. Balanced Binary Tree](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/110.%20Balanced%20Binary%20Treel)
+
+Given a binary tree, determine if it is height-balanced.
+
+[Try here](https://leetcode.com/problems/balanced-binary-tree/)
+
+###### 23. [104. Maximum Depth of Binary Tree](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/104.%20Maximum%20Depth%20of%20Binary%%20Tree)
+
+Given the root of a binary tree, return its maximum depth.
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+[Try here](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+###### 24. [704. Binary Search](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/704.%20Binary%20Search)
+
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+
+You must write an algorithm with O(log n) runtime complexity.
+
+[Try here](https://leetcode.com/problems/binary-search/)
+
+###### 25. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/guledaaydemir/LeetCode-Algorithms/tree/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
+
+Given two integer arrays preorder and inorder where preorder is the preorder traversal of a binary tree and inorder is the inorder traversal of the same tree, construct and return the binary tree.
+
+[Try here](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+
+
+
+
+
 Special thanks to, [Leetcode.com](https://leetcode.com)
